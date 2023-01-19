@@ -37,7 +37,6 @@
 - Case Fans - Cube Gaming Indigo RGB Static (x3)
 - OS - Windows 10 Pro 64bit
  
-=========================
  
 **[Others]**
 - DP Cable: Vention DP - https://tokopedia.link/jjyJjMoUHwb
