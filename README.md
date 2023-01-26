@@ -4,7 +4,7 @@
 - Monitor: Dell U2518D - https://tokopedia.link/iaf0uVjTHwb 
 - Mouse: Logitech G304 Lightspeed Wireless - https://tokopedia.link/EYjbKdtTHwb
 - Keyboard: Royal Kludge RK61 Black (Brown Switch) - https://tokopedia.link/b5em8JBTHwb
-- Keyboard Caps: ALCHA KEYCAPS PBT Double Shot (White + Dark Blue) - https://tokopedia.link/yZuLw0ETHwb
+- Keyboard Caps: ALCHA KEYCAPS PBT Double Shot OEM Profile (White + Dark Blue) - https://tokopedia.link/yZuLw0ETHwb
 - Speaker: Logitech Z120 - https://tokopedia.link/FXJNMHJTHwb
 - Headphone: Fantech MH90 Sonata - https://tokopedia.link/NZqhJKLTHwb
 - Headphone Holder (bawah meja) - https://tokopedia.link/ZoSW40sUHwb
